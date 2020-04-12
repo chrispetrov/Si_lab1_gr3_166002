@@ -6,10 +6,13 @@
 "git remote add origin https://github.com/chrispetrov/Si_lab1_gr3_166002.git" za povrzuvanje so remote repo
 "git push origin master" gi sinhronizira
 "git checkout -b receiptFeature" kreiranje na nov branch i premestise na taa
-
+"git merge receiptFeature" gi spouva grankite vo edna
 
 LINK NA GITHUB
 https://github.com/chrispetrov/Si_lab1_gr3_166002.git
+
+MERGING RESENIE: posle komandata "git merge receiptFeature" pisis poraka i pritiskas esc + :wq + Enter 
+
 
 Git log:
 $ git log
