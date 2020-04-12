@@ -1,0 +1,120 @@
+$ git log
+commit ed070c8bba72e25dda53c5c2ee300c14f54043ed (HEAD -> master, origin/master, origin/HEAD)
+Author: Chris <chrispetrov904@gmail.com>
+Date:   Sun Apr 12 11:59:14 2020 +0200
+
+    test 2
+
+commit a9478a472f4e51cd4451a53dd7a90737f5b72c95
+Author: Chris <chrispetrov904@gmail.com>
+Date:   Sun Apr 12 11:54:19 2020 +0200
+
+    items.csv files added
+
+commit 1bf0a4e7b7bc14c3068a66acd2aa6d5353ecc768
+Author: chrispetrov <47974663+chrispetrov@users.noreply.github.com>
+Date:   Sun Apr 12 11:53:04 2020 +0200
+
+    Delete items.csv
+
+commit 6912ea3d8f224d3a7406317c8fd415f2c0b9890a
+Author: Chris <chrispetrov904@gmail.com>
+Date:   Sun Apr 12 11:48:11 2020 +0200
+
+    testing file
+
+commit 3d985377c7f5e95c091faca3a7193d4731d6bdf5
+Author: chrispetrov <47974663+chrispetrov@users.noreply.github.com>
+Date:   Sun Apr 12 11:37:23 2020 +0200
+
+    Update Documentacija_na_komandi.txt
+
+commit a37c7ce233376ec1727f00fd46f712c3070ce2a5
+Author: chrispetrov <47974663+chrispetrov@users.noreply.github.com>
+Date:   Sun Apr 12 11:35:58 2020 +0200
+
+    Add files via upload
+
+commit 3559d53436372dff297b43effbccab79f952d721
+Author: chrispetrov <47974663+chrispetrov@users.noreply.github.com>
+Date:   Sun Apr 12 11:23:50 2020 +0200
+
+    Add files via upload
+
+commit f169eb2273d2172c64b4a54d77b0754857720253 (origin/lab1)
+Author: chrispetrov <47974663+chrispetrov@users.noreply.github.com>
+Date:   Sun Apr 12 10:45:29 2020 +0200
+
+    Initial commit
+(END)
+
+
+2nd log:
+$ git log
+commit 7076fb6d40538c3e0f40d85979e97581183cdedd (HEAD -> master, origin/master, origin/HEAD)
+Author: Chris <chrispetrov904@gmail.com>
+Date:   Sun Apr 12 18:32:07 2020 +0200
+
+    TaxReturn method finished
+
+commit b6760eb992cde1d781242227de15ff1bb53ab05b
+Author: Chris <chrispetrov904@gmail.com>
+Date:   Sun Apr 12 18:27:17 2020 +0200
+
+    tax type variable added
+
+commit 92a858f31c7985393884bfbbaa63d868a17b1617
+Author: Chris <chrispetrov904@gmail.com>
+Date:   Sun Apr 12 18:19:40 2020 +0200
+
+    added github link to notepad
+
+commit ed070c8bba72e25dda53c5c2ee300c14f54043ed
+Author: Chris <chrispetrov904@gmail.com>
+Date:   Sun Apr 12 11:59:14 2020 +0200
+
+    test 2
+
+commit a9478a472f4e51cd4451a53dd7a90737f5b72c95
+Author: Chris <chrispetrov904@gmail.com>
+Date:   Sun Apr 12 11:54:19 2020 +0200
+
+    items.csv files added
+
+commit 1bf0a4e7b7bc14c3068a66acd2aa6d5353ecc768
+Author: chrispetrov <47974663+chrispetrov@users.noreply.github.com>
+Date:   Sun Apr 12 11:53:04 2020 +0200
+
+    Delete items.csv
+
+commit 6912ea3d8f224d3a7406317c8fd415f2c0b9890a
+Author: Chris <chrispetrov904@gmail.com>
+Date:   Sun Apr 12 11:48:11 2020 +0200
+
+    testing file
+
+commit 3d985377c7f5e95c091faca3a7193d4731d6bdf5
+Author: chrispetrov <47974663+chrispetrov@users.noreply.github.com>
+Date:   Sun Apr 12 11:37:23 2020 +0200
+
+    Update Documentacija_na_komandi.txt
+
+commit a37c7ce233376ec1727f00fd46f712c3070ce2a5
+Author: chrispetrov <47974663+chrispetrov@users.noreply.github.com>
+Date:   Sun Apr 12 11:35:58 2020 +0200
+
+    Add files via upload
+
+commit 3559d53436372dff297b43effbccab79f952d721
+Author: chrispetrov <47974663+chrispetrov@users.noreply.github.com>
+Date:   Sun Apr 12 11:23:50 2020 +0200
+
+    Add files via upload
+
+commit f169eb2273d2172c64b4a54d77b0754857720253 (origin/lab1)
+Author: chrispetrov <47974663+chrispetrov@users.noreply.github.com>
+Date:   Sun Apr 12 10:45:29 2020 +0200
+
+    Initial commit
+(END)
+
