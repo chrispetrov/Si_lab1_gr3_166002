@@ -9,7 +9,9 @@ class Item {
 	//TODO add variable.
 
 	//TODO constructor
-
+        double getTaxReturn () {
+		return price*0.15;
+	}
 	//TODO setters and getters
 
 	double taxReturn () {
