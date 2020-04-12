@@ -1,0 +1,14 @@
+import java.util.ArrayList;
+
+class Receipt {
+	int id;
+	String name;
+	double price;
+	double taxReturn () {
+	return price*0.1;
+	}
+        int getId(){
+        return id;
+}
+
+}

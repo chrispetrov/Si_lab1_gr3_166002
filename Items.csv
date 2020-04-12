@@ -1,6 +1,8 @@
-id,ime,cena
-1,sok,10
-2,mleko,45
-3,med,33
-4,chips,23
-5,meso,100
+id;ime;cena
+1;sok;10
+2;mleko;45
+3;med;33
+4;chips;55
+5;meso;100
+6;sapun;99999
+7;toaletna;9999^2
