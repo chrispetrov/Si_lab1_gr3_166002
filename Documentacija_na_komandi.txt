@@ -1,0 +1,7 @@
+1.
+" git clone https://github.com/finkiSI/SI_lab1_gr3.git " go zima fajlot od remote i go stava vo localniot folder kade sto e napisana komandata.
+" git init" pravi repozitorium
+"mv SI_lab1_gr3 Si_lab1_gr3_166002" rename
+"git branch -d origin" brisenje na remote repo
+"git remote add origin https://github.com/chrispetrov/Si_lab1_gr3_166002.git" za povrzuvanje so remote repo
+
