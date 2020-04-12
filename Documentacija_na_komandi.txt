@@ -5,3 +5,7 @@
 "git branch -d origin" brisenje na remote repo
 "git remote add origin https://github.com/chrispetrov/Si_lab1_gr3_166002.git" za povrzuvanje so remote repo
 "git push origin master" gi sinhronizira
+
+
+LINK NA GITHUB
+https://github.com/chrispetrov/Si_lab1_gr3_166002.git
